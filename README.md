@@ -8,7 +8,7 @@ You want to use A* algorithm to minimize the number of moves for this.
 
 The A* search algorithm is used in the code to solve this problem.
 The A* search algorithm is a heuristic search algorithm that uses an evaluation function to determine the direction of the next search. 
-The evaluation function usually consists of two parts, 
+The evaluation function consists of two parts, 
 one is the length of the path that has been walked (in this case,
 the number of swaps that have been made),
 and the other is a heuristic function that estimates how many steps are still needed from the current state to the target state (in this case,
